@@ -99,7 +99,7 @@ div.container {
     line-height: 1.5em; 
 }
 
-div a:after {
+.tlinks a:after {
   content: "";
   display: block;
   height: 0.75em;
