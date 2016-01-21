@@ -100,10 +100,10 @@ div.container {
 }
 
 .tlinks a:after {
-  content: "";
-  display: block;
-  height: 0.75em;
-  width: 1px;
+    content: "";
+    display: block;
+    height: 0.75em;
+    width: 1px;
 }
 
 #clear {
