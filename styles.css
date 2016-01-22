@@ -38,7 +38,7 @@ div.container {
     font-size: 50%;
     width: 50%;
     margin: auto;
-    min-width: 290px;
+    min-width: 560px;
 }
 
 #bar {
@@ -68,7 +68,7 @@ div.container {
 .tsection {
     box-sizing: border-box;
     border-left: 1px solid #c5c8c6;
-    width: 25%;
+    width: 16.67%;
     height: 300px;
     float: left;
 }
