@@ -105,3 +105,10 @@ div.container {
     height: 0.75em;
     width: 1px;
 }
+
+.sl:after {
+    content: "";
+    display: block;
+    height: 0.75em;
+    width: 1px;
+}
