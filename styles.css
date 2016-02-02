@@ -68,7 +68,7 @@ div.container {
 .tsection {
     box-sizing: border-box;
     border-left: 1px solid #c5c8c6;
-    width: 16.67%;
+    width: 25%;
     height: 300px;
     float: left;
 }
