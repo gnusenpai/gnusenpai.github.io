@@ -22,9 +22,10 @@ header {
 }
 
 #title {
-    letter-spacing: -1px;
+    font-size: 450%;
+    /*letter-spacing: -1px;*/
     line-height: 100%;
-    padding-bottom: 1em;
+    /*padding-bottom: 1em;*/
 }
 
 #subtitle {
