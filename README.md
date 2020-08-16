@@ -1,2 +1,2 @@
-# pspslimboy.github.io
+# gnusenpai.github.io
 Basic GNU/Linux website.
